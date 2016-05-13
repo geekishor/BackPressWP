@@ -1,0 +1,15 @@
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bin\Debug\ReverseMap\resources.pri
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bin\Debug\AppxManifest.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bin\Debug\BackPress.build.appxrecipe
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\priconfig.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\priconfig.xml.intermediate
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\layout.resfiles
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\layout.resfiles.intermediate
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\resources.resfiles
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\resources.resfiles.intermediate
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\pri.resfiles
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\pri.resfiles.intermediate
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\qualifiers.txt
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\qualifiers.txt.intermediate
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\BackPress\BackPress\bld\Debug\ProjectArchitectures.txt
